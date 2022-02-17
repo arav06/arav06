@@ -3,7 +3,7 @@
 
 #### 👦‣15 year old from India  
 #### 📚‣Currently learning cloud computing <br />
-#### 💻‣2021 Goals: Contribute to Open-Source Projects  
+#### 💻‣2022 Goals: Contribute to Open-Source Projects  
 #### 🌐‣My Website: https://arav06.github.io/
 
 <br />
@@ -41,7 +41,7 @@
 ## Get in touch
 
 [<img align="left" alt="mail" width="75px" src="images/mail.png" />][m]
-[<img align="left" alt="in" width="70px" src="images/linkedin.ico" />][l]
+
 
 <br />
 <br />
@@ -65,4 +65,4 @@
 
 [a]:#
 [m]:mailto:contact.arav06@gmail.com
-[l]:https://linkedin.com/in/aravbudhiraja
+
