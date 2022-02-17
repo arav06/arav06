@@ -16,10 +16,10 @@
 [<img align="left" alt="bash" width="40px" src="images/bash.png" />][a]
 [<img align="left" alt="pwsh" width="40px" src="images/pwsh.png" />][a]
 [<img align="left" alt="html" width="40px" src="images/html.svg" />][a]
-[<img align="left" alt="css" width="40px" src="images/css.svg" />][a]
+
 [<img align="left" alt="aws" width="40px" src="images/aws.svg" />][a]
 [<img align="left" alt="docker" width="40px" src="images/docker.svg" />][a]
-[<img align="left" alt="c++" width="40px" src="images/cpp.png" />][a]
+
 [<img align="left" alt="java" width="40px" src="images/java.svg" />][a]
 
 <br />
