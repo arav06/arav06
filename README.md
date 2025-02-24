@@ -1,4 +1,4 @@
-hey, im arav
+### hey, im arav
 
-📍 Boston, MA
+📍 boston, ma
 <br> https://linkedin.com/aravbudhiraja/
