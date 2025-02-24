@@ -1,4 +1,4 @@
 hey, im arav
 
 📍 Boston, MA
-https://linkedin.com/aravbudhiraja/
+<br> https://linkedin.com/aravbudhiraja/
