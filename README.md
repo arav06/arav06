@@ -10,7 +10,7 @@ Outside of tech, I love mentoring folks, hiking, and playing golf, squash, and p
 
 - Languages: Python, JavaScript, Java, Bash, SQL, Solidity  
 - Framworks: Flask, FastAPI, Node.js, React  
-- Domains: Penetration Testing, Full-Stack Development, Computer Networking, Web3  
+- Domains: Penetration Testing, Software Engineering, Computer Networking, RESTful API Development, Web3, DevOps
 - Developer Tools: AWS, Docker, MongoDB, MySQL, LangGraph, Git, Postman, Cursor, Windsurf
 - Security Tools: Nmap, Metasploit, Wireshark, Snort, Burp Suite, Hashcat, Nessus, Bloodhound, Impacket
 - Certifications: Certified Ethical Hacker (Practical), eLearnSecurity Junior Penetration Tester
